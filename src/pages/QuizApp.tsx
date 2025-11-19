@@ -203,7 +203,7 @@ export default function QuizApp() {
         </CardHeader>
         <CardContent className="text-center space-y-4">
           <p className="text-lg text-muted-foreground">
-            Dear <span className="font-semibold text-primary">Pooja (PG)</span>, here's your interactive practice platform to help you ace the <span className="font-semibold text-accent">AZ-900</span> certification.
+            Dear <span className="font-semibold text-primary">Here's your interactive practice platform to help you ace the <span className="font-semibold text-accent">AZ-900</span> certification.
           </p>
           <p className="text-sm text-muted-foreground">
             Wishing you focused preparation and a smooth exam day. — <em className="text-accent">Rishika</em>
